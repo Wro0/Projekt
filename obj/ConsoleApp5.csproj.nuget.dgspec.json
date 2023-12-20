@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wro0210\\OneDrive - Skellefteå kommun\\Documents\\Visual Studio 2022\\Kod\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {}
+    "C:\\Users\\wro0210\\source\\repos\\Projekt\\ConsoleApp5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wro0210\\OneDrive - Skellefteå kommun\\Documents\\Visual Studio 2022\\Kod\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {
+    "C:\\Users\\wro0210\\source\\repos\\Projekt\\ConsoleApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wro0210\\OneDrive - Skellefteå kommun\\Documents\\Visual Studio 2022\\Kod\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectUniqueName": "C:\\Users\\wro0210\\source\\repos\\Projekt\\ConsoleApp5.csproj",
         "projectName": "ConsoleApp5",
-        "projectPath": "C:\\Users\\wro0210\\OneDrive - Skellefteå kommun\\Documents\\Visual Studio 2022\\Kod\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectPath": "C:\\Users\\wro0210\\source\\repos\\Projekt\\ConsoleApp5.csproj",
         "packagesPath": "C:\\Users\\wro0210\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wro0210\\OneDrive - Skellefteå kommun\\Documents\\Visual Studio 2022\\Kod\\ConsoleApp5\\ConsoleApp5\\obj\\",
+        "outputPath": "C:\\Users\\wro0210\\source\\repos\\Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wro0210\\AppData\\Roaming\\NuGet\\NuGet.Config",
